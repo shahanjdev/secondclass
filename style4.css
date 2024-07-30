@@ -1,0 +1,20 @@
+.table, th,td{
+    border: 1px solid black;
+    height: 60px;
+    border-collapse: collapse;
+    width: 500px;
+    padding: 10px;
+    margin: 50px;
+}
+.one{
+    background-image: url(./istockphoto-1085287936-1024x1024.jpg);
+    height: 500px;
+    width: 500px;
+    color: aliceblue;
+    font-size: 20px;
+    padding-left: 10px;
+    text-wrap: 10px;
+    text-align: center;
+    
+
+}

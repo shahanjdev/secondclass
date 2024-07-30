@@ -1,0 +1,185 @@
+.one{
+    background-image: url(./istockphoto-1085287936-1024x1024.jpg);
+    height: 400px;
+    width: 100%;
+    border: 1px solid blue;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+.button{
+    height: 50px;
+    width: 150px;
+    background-image: url(./istockphoto-1085287936-1024x1024.jpg);
+    color: white;
+    border: 2px solid yellow;
+    border-radius: 20px;
+    box-shadow: 20px;
+    text-align: center;
+    font-size: 18px;
+    
+}
+.button:hover{
+    background-color: yellow;
+    cursor: pointer;
+
+}
+.button1{
+    height: 50px;
+    width: 150px;
+    background-color: yellow;
+    color: white;
+    border: 2px solid yellow;
+    border-radius: 20px;
+    box-shadow: 20px;
+    text-align: center;
+    font-size: 18px;
+    
+
+}
+.button1:hover{
+    background-image: url(./istockphoto-1085287936-1024x1024.jpg);
+    cursor: pointer;
+
+}
+.button2{
+    height: 50px;
+    width: 150px;
+    background-color: white;
+    color: black;
+    border: 2px solid yellow;
+    border-radius: 20px;
+    box-shadow: 20px;
+    text-align: center;
+    font-size: 18px;
+
+}
+.button2:hover{
+    background-color: yellow;
+
+}
+.three{
+    display: flex;
+    height: 400px;
+    width: 100%;
+    border: 2px solid rgb(212, 205, 205);
+    gap: 50px;
+    margin: 40px;
+    border-radius: 5px;
+    box-shadow: 20px 10px 5px rgb(184, 195, 247) ;
+    background-color: white;
+
+}
+.two img{
+    border-radius: 25%;
+    margin-left:10px ;
+    margin-top: 20px;
+    
+}
+.four{
+    margin-left: 80px;
+    margin-right: 30px;
+}
+.button3{
+    border: 2px solid rgb(26, 221, 8);
+    height: 50px;
+    width: 150px;
+    background-color: white;
+    color: black;
+    
+    border-radius: 20px;
+    box-shadow: 20px;
+    text-align: center;
+    font-size: 18px;
+
+}
+.button3:hover{
+    background-color: green;
+    cursor: pointer;
+}
+.boy{
+    display: flex;
+}
+.demo{
+    display: flex;
+    gap: 80px;
+    margin: 50px;
+
+}
+.butt{
+    border: 2px solid green;
+    background-color: green;
+   
+    height: 50px;
+    width: 150px;
+
+   color: white;
+    
+    border-radius: 20px;
+    box-shadow: 20px;
+    text-align: center;
+    font-size: 18px;
+ 
+}
+.butt:hover{
+    background-color: chocolate;
+    cursor: pointer;
+}
+.dark{
+    margin-right: 300px;
+   margin-bottom: 200px;
+    margin-left: 100px;
+}
+.build{
+    background-color: black;
+    color: white;
+    height: 250px;
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+    border-radius: 3px;
+    box-shadow: 20px;
+}
+.but{
+    border: 2px solid green;
+    background-color: green;
+   
+    height: 50px;
+    width: 150px;
+
+   color: white;
+    
+    border-radius: 20px;
+    box-shadow: 20px;
+    text-align: center;
+    font-size: 18px;
+ 
+
+}.but:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
+.foot{
+    background-color: rgb(54, 51, 51);
+    color: aliceblue;
+    height: 100px;
+    width: 100%;
+    top: 0;
+    margin: 0;
+    text-align: center;
+    padding: 10px;
+
+}
+.name{
+    display: flex;
+    height: 400px;
+    width: 100%;
+    border: 2px solid rgb(212, 205, 205);
+    gap: 50px;
+    margin: 40px;
+    border-radius: 5px;
+    box-shadow: 20px 10px 5px rgb(108, 82, 224) ;
+    background-color: rgb(32, 12, 216);
+
+
+}
